@@ -1,13 +1,21 @@
+
+# Become a Software Professional 2023
+
+
 # Week 1
 
 ## Figma
 ```
- -Figma is a vector graphics editor and prototyping tool, primarily web-based, with additional off-line features enabled by desktop applications on macOS and Windows.
+ -Figma is a vector graphics editor and prototyping tool,primarily web-based, with additional off-line features enabled by desktop applications on macOS and Windows.
 ```
 ## How to use
 ```
 -First we need to create an account on https://www.figma.com/?fuid=, then we can create a file and start creating designs.
 ```
+```
+Through figma my team and I were in charge of creating the design of a website for a gym, with my group we designed the section that the teachers would use to see their schedule and which members are in their classes. 
+```
+
 # Week 2
 
 ## GIT
@@ -24,9 +32,9 @@
 How to use
 ```
 ## How to use
-
-
-
+```
+create an account at https://github.com/, then follow the corresponding steps to connect the local repository to git
+```
 ## HTML
 ```
 -Hypertext Markup Language (HTML) is the code used to structure and display a web page and its contents.
@@ -35,8 +43,9 @@ How to use
 ```
 first download visual studio code from https://code.visualstudio.com/, then create a folder and start working with the code.
 ```
-
-
+```
+this week I created a repository using git and git hub, where I uploaded all the code of the landing page made in html and with all the steps and corrections I was doing.
+```
 
 
 
