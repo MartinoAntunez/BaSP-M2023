@@ -1,0 +1,52 @@
+body{
+    font-family: 'Roboto', sans-serif; 
+    background-color:#f4f4f4;
+    margin-left: 180px;
+}
+.header1{
+    background-color: #373867;
+    height: 60px;
+    width: 2000px;
+}
+.titleimg{
+    margin-top: -30px; 
+    margin-left: 60px;
+}
+.header2{
+    height: 100%;
+    width: 180px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #373867;
+    font-size: 10px;
+}
+h1{
+    font-size: 50px;
+    margin-top: 80px;
+    margin-left: 60px;
+}
+.tit2{
+    font-size: 30px;
+    margin-top: 80px;
+    margin-left: 60px;
+}
+.parrafo1{
+     width: 20%;
+    margin: auto;
+    margin-top: 50px;
+    margin-left: 100px;
+    font-size: 18px;
+}
+.img1{
+    position: relative;
+    margin-top: -600px; 
+    margin-left: 800px;
+    width: 50%;
+    height: auto;
+}
+
+
+
+    
