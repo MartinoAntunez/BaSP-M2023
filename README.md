@@ -44,8 +44,26 @@ create an account at https://github.com/, then follow the corresponding steps to
 first download visual studio code from https://code.visualstudio.com/, then create a folder and start working with the code.
 ```
 ```
-this week I created a repository using git and git hub, where I uploaded all the code of the landing page made in html and with all the steps and corrections I was doing.
+this week we will have to create an html page based on the landing page created in figma previously we will have to create a repository using git and github.
 ```
+
+# Week 3
+
+## CSS
+```
+It is a language that handles the design and presentation of web pages, i.e. how they look when a user visits them. It works in conjunction with HTML, which handles the basic content of the pages.
+```
+## How to use
+```
+create a css file and link it to the html file to be styled
+```
+```
+in this problem we use css to style the landing page previously made with html. 
+```
+
+
+
+
 
 
 
