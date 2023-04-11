@@ -1,0 +1,245 @@
+body{
+    margin-right: 300px;
+    font-family: 'Roboto', sans-serif;
+    background-color:white;
+}
+h1{
+    font-size: 50px;
+    margin-top: 80px;
+    margin-left: 60px;
+    color: #2F3058C2;
+}
+.header-1{
+    position: relative;
+    left: 100px;
+    width: 2000px;
+    background-color: #2F3058;
+ }
+ .header-2{
+    height: 100%;
+    width: 100px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #2F3058;
+    overflow-x: hidden;
+}
+.main-box{
+    margin-left: 100px;
+    padding-left: 20px;
+}
+#logo{
+    position: relative;
+}
+.title-img{
+    position: relative;
+    left: 150px;
+    bottom: 35px;
+    font-family: 'Roboto';
+    font-style: normal;
+    color: #46A37C;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25)
+}
+.img-menu{
+    position: relative;
+    top: 10px;
+    left: 20px;
+}
+.title-menu{
+    position: relative;
+    top: 10px;
+    left: 5px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-size: 12px;
+    color: #46A37C;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25)
+}
+.buttom{
+    background-color: #2F3058;
+    margin: auto;
+    margin-top: 40px;
+    font-size: 20px;
+    border: none;
+    border-bottom-style: solid;
+    color:#C4C4C4;
+    font-family: 'Roboto';
+    font-style: normal;
+    line-height: 25px;
+}
+.inf{
+    position: relative;
+    margin-top: 50px;
+    font-size: 10px;
+    border: none;
+    border-bottom-style: solid;
+    color: #f4f4f4;
+}
+.box-1-main{
+    left: 100px;
+    top: 10px;
+}
+.tit-2{
+    font-size: 30px;
+    margin-top: 80px;
+    margin-left: 60px;
+    color: #2F3058;
+}
+.parrafo-1{
+    width: 30%;
+    margin: auto;
+    margin-top: 50px;
+    margin-left: 60px;
+    font-size: 18px;
+}
+.img-1{
+    position: relative;
+    margin-top: -400px;
+    margin-left: 800px;
+    width: 30%;
+    height: auto;
+}
+.line{
+    border-bottom: 5px solid #D9D9D9;
+    margin-top: 50px;
+    width: 1700px;
+}
+.tittle-2{
+    font-weight: bold;
+    font-size: 34px;
+    color: #2F3058;
+    margin-left: 100px;
+    margin-bottom: 30px;
+    margin-top: 20px;
+}
+.box-2-main{
+    bottom: 100px;
+}
+.box-2{
+    position: relative;
+    left: 50px;
+    display: inline;
+
+}
+.content{
+    display: inline-block;
+    width: 40%;
+    top: 50px;
+}
+.content-down{
+    position: relative;
+    top: 20px;
+}
+.text-content{
+    display: inline-block;
+    width: 50%;
+    height: 50%;
+    position: relative;
+    left: 40px;
+    bottom: 50px;
+}
+h3{
+    font-size: 25px ;
+    color: #373867;
+    margin-left: 60px;
+}
+.text{
+    font-size: 18px ;
+    color: #979797;
+}
+.placeholder{
+    width: 50%;
+    height: auto;
+    margin-top: 25px;
+    margin-left: 60px;
+}
+.buttom-2{
+    display: block;
+    margin-left: 60px;
+}
+.big-placeholder{
+    width: 1000px;
+    height: 100px;
+    margin-top: 10px;
+    margin-left: 60px;
+}
+.buttom-3{
+    margin-left: 915px;
+    margin-top: 10px;
+    background-color: #373867;
+}
+.p-1{
+    width: 70%;
+    margin: auto;
+    margin-top: 50px;
+    margin-left: 60px;
+    font-size: 18px;
+}
+.img-2{
+    margin-left: 60px;
+}
+.p-2{
+    width: 50%;
+    margin: auto;
+    margin-top: -200px;
+    margin-left: 350px;
+    font-size: 18px;
+}
+.p-3{
+    margin-top: 150px;
+}
+.img-3{
+    margin-top: -150px;
+    margin-left: 800px;
+}
+.p-4{
+    width: 30%;
+    margin: auto;
+    margin-top: -100px;
+    margin-left: 60px;
+    font-size: 18px;
+}
+.box-5-main{
+    display: inline;
+    width: 100%;
+}
+.content-1{
+    padding-left: 100px;
+}
+.text-content-1{
+    float: left;
+    width: 480px;
+    height: 120px;
+    margin-bottom: 70px;
+    margin-right: 150px;
+    padding-left: 20px;
+    padding-top: 10px;
+    border: #46A37C 2px solid;
+    border-radius: 10px;
+}
+.list{
+    position: relative;
+    left: 30px;
+}
+.tittle-3{
+    font-weight: bolder;
+    font-size: 24px;
+    margin: 0px;
+    width: 300px;
+    margin-bottom: 10px;
+}
+footer{
+    margin-top: 400px;
+    background-color: #373867;
+    height: 100px;
+    width: 2000px;
+}
+.footer-img{
+    position: relative;
+    right: 540px;
+}
+.footer-tit{
+    color: #C4C4C4;
+    text-align: center;
+}
